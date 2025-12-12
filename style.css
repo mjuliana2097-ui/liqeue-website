@@ -1,0 +1,40 @@
+/* СТИЛИ ДЛЯ САЙТА */
+html {
+   background-color: #e8f4f8;
+   color: #333333;
+}
+
+
+h1 {
+     font-size: 42px;
+     text-align: center;
+     color: #2c5aa0;
+}
+
+p {
+     font-size: 18px;
+     text-align: center;
+     line-height: 1.6;
+     max-width: 800px;
+     margin: 0 auto 20px;
+}
+
+img {
+     display: block;
+     margin: 15px auto;
+     max-width: 90%;
+}
+
+table {
+     margin: 20px auto;
+     width: 70%;
+}
+
+b {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+td {
+     padding: 10px 15px;
+     text-align: center;
